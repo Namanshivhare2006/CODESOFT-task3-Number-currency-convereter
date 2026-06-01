@@ -11,7 +11,7 @@ public class Currencyconverter extends JFrame implements ActionListener {
     private JLabel resultLabel;
     private JButton convertButton;
 
-    // Example exchange rates (1 base unit to target)
+    // Example exchange rates (1 base unit to target) ok
     private final HashMap<String, Double> rates = new HashMap<>();
 
     public Currencyconverter() {
